@@ -7,6 +7,6 @@ It was created as a school project at the Brno University of Technology.
 
 [![GrapDraw Demo: Visualizing sin(x) function](https://img.youtube.com/vi/dlAImRzADQI/0.jpg)](https://www.youtube.com/watch?v=dlAImRzADQI)
 
-Download [checkers.exe](https://github.com/mdavid626/checkers/raw/master/demo/checkers.exe) [1.7 MB] and simply run it. No installation needed. You will *not* need Java Runtime Environment, because dependencies were bundled into the exe file with Excelsior JET.
+Download [demo-native.zip](https://github.com/mdavid626/checkers/raw/master/demo/demo-native.zip) [35 MB], extract and then run **checkers.exe**. No installation needed. You will *not* need Java Runtime Environment, because dependencies were packaged into the zip file with Excelsior JET.
 
-You can also download [demo.zip](https://github.com/mdavid626/checkers/raw/master/demo/demo.zip), extract and then run **"javaw -jar ija2013.jar"** or simply double click on the **"ija2013.jar"** file. No installation needed. Make sure Java Runtime Environment is installed.
+You can also download [demo.zip](https://github.com/mdavid626/checkers/raw/master/demo/demo.zip) [350 kB], extract and then run **"javaw -jar ija2013.jar"** or simply double click on the **"ija2013.jar"** file. No installation needed. Make sure Java Runtime Environment is installed.
